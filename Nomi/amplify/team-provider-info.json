@@ -1,0 +1,19 @@
+{
+    "nomi": {
+        "awscloudformation": {
+            "AuthRoleName": "nomi-20190429125126-authRole",
+            "UnauthRoleArn": "arn:aws:iam::845984476912:role/nomi-20190429125126-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::845984476912:role/nomi-20190429125126-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "nomi-20190429125126-deployment",
+            "UnauthRoleName": "nomi-20190429125126-unauthRole",
+            "StackName": "nomi-20190429125126",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:845984476912:stack/nomi-20190429125126/10946320-6a32-11e9-8eae-0e7851ff27a6"
+        },
+        "categories": {
+            "auth": {
+                "cognito01a4b677": {}
+            }
+        }
+    }
+}
